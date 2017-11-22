@@ -2,10 +2,11 @@
 
 ## Overview
 
-worldRegions app  demostrates the following swift features.
-    - using UIMapKit with Annotations
-    - implement a collapsible header View
-    - reading data from a locally stored .json file
+### worldRegions is sample app  demostrates the following swift features.
+
+  * using UIMapKit with Annotations
+  * collapsible Header View
+  * reading data from a locally stored .json file
 
 ## Prerequisites
 
@@ -14,7 +15,7 @@ worldRegions app  demostrates the following swift features.
 ## To Run this sample in Xcode
 
 1. Clone or download this repository.
-2. When you run the app first "Allow wordRegions app to access user location when in use"
+2. When you run the app for the first time on a device or simulator "Allow wordRegions app to access user location when in use".
 
 
 ## Known Issues 
