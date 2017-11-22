@@ -2,7 +2,7 @@
 
 ## Overview
 
-### worldRegions is sample app  demostrates the following swift features.
+### worldRegions is a sample app  demostrates the following swift features.
 
   * using UIMapKit with Annotations
   * collapsible Header View
